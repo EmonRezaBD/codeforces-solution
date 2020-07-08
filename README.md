@@ -1,4 +1,4 @@
-# CF
+# Codeforces Solutions
 Solution for some CF contest problems. 
 
 Here you find the solution of all latest contests problems. I update it after each contest. 
